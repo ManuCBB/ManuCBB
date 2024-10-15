@@ -4,6 +4,7 @@
 - 💻 Estudando: JS, HTML e CSS!
 - 📫 Contacte-me no gmail: emanoelcarlos609@gmail.com
 - 🍃 Pronouns: He/Him
+- 🎀 Cursando Análise e Desenvolvimento de Sistemas na Uninassau (09/2023 - 12/2025)
 
 
 <div>
